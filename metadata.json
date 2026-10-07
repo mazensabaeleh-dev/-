@@ -1,0 +1,6 @@
+{
+  "name": "مقياس هولاند للتفضيلات المهنية",
+  "description": "قائمة التفضيلات المهنية لجون هولاند (RIASEC) لاكتشاف الميول والأنماط المهنية والتخصصات المناسبة للطلاب مع تقرير للإرشاد المهني والتربوي.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
